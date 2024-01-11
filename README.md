@@ -3,7 +3,6 @@ Main goals:
 - Support IBC 
 - Support .axl
 - Support for Ethereum L1 and L2s via Axelar 
-- Automatic swap from native to .axl assets
 - Support automatic swap from native to .axl 
 - Incoming Gas on selected assets using Shade Swap ( ATOM, OSMO, ETH, .... ) 
 
