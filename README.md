@@ -23,5 +23,5 @@ Main goals:
 
 Secondary goals:
 - Option to anonymize the arrival address reasearch ( assets will be sent to the SCRT contract which will then send them to the user )
-- Crosschain Swap - Squid roter integration
+- Crosschain Swap - Squid roter integration SCRT <-> X asset
 - Native Cosmos USDT ( Kava ) and USDC ( Noble ) swap to .axl via Squid Roter 
